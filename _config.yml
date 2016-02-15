@@ -1,0 +1,28 @@
+name: frgilroy.com
+favicon: null
+layout_spectrum: 0.7416959579568356
+typography_spectrum: 0.8112192715052515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5980980633758008
+  lightness: 0.005915128625929356
+  saturation: 0.07160102599300444
+  rhythmicContrast: 0.24317382043227553
+purpose: []
