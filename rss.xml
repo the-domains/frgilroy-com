@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[frgilroy.com]]></title>
         <description><![CDATA[frgilroy.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frgilroy-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:18:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 22:18:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frgilroy-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is my new site]]></title>
+            <description><![CDATA[<article><h1>This is my new site</h1><p>My site</p></article>]]></description>
+            <link>https://thegrid.ai/frgilroy-com/this-is-my-new-site/index.html</link>
+            <guid isPermaLink="false">534bb4a8-9303-423a-8001-865a33f79ca8</guid>
+            <pubDate>Mon, 15 Feb 2016 22:17:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Future Home]]></title>
             <description><![CDATA[<h1>Future Home</h1>]]></description>
-            <link>undefinedfuture-home/index.html</link>
+            <link>https://thegrid.ai/frgilroy-com/future-home/index.html</link>
             <guid isPermaLink="false">0409d0f8-1806-4597-8910-0d3f4abe0c76</guid>
             <pubDate>Mon, 15 Feb 2016 22:17:44 GMT</pubDate>
         </item>
