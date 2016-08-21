@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[frgilroy.com]]></title>
-        <description><![CDATA[frgilroy.com]]></description>
+        <title><![CDATA[Home Furnishing]]></title>
+        <description><![CDATA[Home Furnishing]]></description>
         <link>https://thegrid.ai/frgilroy-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 18:32:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/frgilroy-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Gilroy's Largest Small Town Furniture Store!</p>]]></description>
             <link>https://thegrid.ai/frgilroy-com/1f5072d9-a625-41a5-a43a-2d820298623f/index.html</link>
             <guid isPermaLink="false">1f5072d9-a625-41a5-a43a-2d820298623f</guid>
-            <pubDate>Mon, 15 Feb 2016 22:19:12 GMT</pubDate>
+            <pubDate>Sun, 21 Aug 2016 18:32:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is my new site]]></title>
-            <description><![CDATA[<article><h1>This is my new site</h1><p>My site</p></article>]]></description>
+            <description><![CDATA[<h1>This is my new site</h1>]]></description>
             <link>https://thegrid.ai/frgilroy-com/this-is-my-new-site/index.html</link>
             <guid isPermaLink="false">534bb4a8-9303-423a-8001-865a33f79ca8</guid>
             <pubDate>Mon, 15 Feb 2016 22:17:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Future Home]]></title>
-            <description><![CDATA[<h1>Future Home</h1>]]></description>
+            <description><![CDATA[<p>Future Home</p>]]></description>
             <link>https://thegrid.ai/frgilroy-com/future-home/index.html</link>
             <guid isPermaLink="false">0409d0f8-1806-4597-8910-0d3f4abe0c76</guid>
             <pubDate>Mon, 15 Feb 2016 22:17:44 GMT</pubDate>
